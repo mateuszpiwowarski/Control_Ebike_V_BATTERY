@@ -1,0 +1,2 @@
+../Core/Src/battery.c:10:6:Battery_Get_ADC_Value	1
+../Core/Src/battery.c:18:6:Battery_Get_Voltage	1
